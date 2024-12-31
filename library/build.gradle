@@ -65,7 +65,7 @@ afterEvaluate {
         repositories {
             maven {
                 name = "GitHubPackages"
-                url = "https://maven.pkg.github.com/Shay-valid8me/status-bar-compat"
+                url = "https://maven.pkg.github.com/valid8me-engineering/status-bar-compat"
                 credentials {
                     username = System.getenv("GITHUB_ACTOR") ?: "default_actor"
                     password = System.getenv("GITHUB_TOKEN") ?: "default_token"
