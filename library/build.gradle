@@ -1,7 +1,5 @@
 apply plugin: 'com.android.library'
-apply plugin: 'maven-publish' // Add this line
-
-android {
+apply plugin: 'maven-publish'
     compileSdkVersion 34
 
     defaultConfig {
