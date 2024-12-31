@@ -9,14 +9,14 @@
 <div style="border: 2px solid rgb(243, 18, 18); background-color:rgb(243, 215, 215); padding: 15px; border-radius: 5px; font-family: Arial, sans-serif;">
   <strong>About This Fork</strong>
   <p>
-    This repository is a fork of the original <a href="https://github.com/81813780/AVLoadingIndicatorView" target="_blank">status-bar-compat</a> library. It was created due to the inability to source the original dependency online, which was necessary to build valid8Me's Android application.
+    This repository is a fork of the original <a href="https://github.com/msdx/status-bar-compat" target="_blank">status-bar-compat</a> library. It was created due to the inability to source the original dependency online, which was necessary to build valid8Me's Android application.
   </p>
   <p>
     Only minor changes have been made to this fork, such as updates to the library version and imports, to enable the application to build successfully. These changes do not impact the functionality of the library, ensuring compatibility with existing implementations. This fork serves as a temporary solution to facilitate development and deployment until a more permanent resolution is identified.
   </p>
 </div>
 
-
+__________
 __________
 
 StatusBarCompat

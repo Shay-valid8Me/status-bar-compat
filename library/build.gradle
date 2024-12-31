@@ -43,8 +43,8 @@ afterEvaluate {
 
                 pom {
                     name = 'statusbarcompat'
-                    description = 'statusbarcompat'
-                    url = 'https://github.com/81813780/AVLoadingIndicatorView'
+                    description = 'StatusBarCompat is a compatibility library for setting the system status bar colour, supporting Android 4.4.2 (API 19) and above. It is easy to use, requiring just a single line of code to call.'
+                    url = 'https://github.com/valid8me-engineering/status-bar-compat'
                     licenses {
                         license {
                             name = 'The Apache License, Version 2.0'
@@ -53,9 +53,9 @@ afterEvaluate {
                     }
                     developers {
                         developer {
-                            id = 'shay'
+                            id = 'Shay-valid8Me'
                             name = 'Shay Brennan-Kelly'
-                            email = 'your.email@example.com'
+                            email = 'sbrennankelly@valid8me.com'
                         }
                     }
                 }
